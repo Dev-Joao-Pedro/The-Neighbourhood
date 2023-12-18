@@ -3,3 +3,9 @@
     width: 1000px;
     opacity: 0.5;
 }
+
+footer {
+    background-image: url(../images/FundoFooter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
